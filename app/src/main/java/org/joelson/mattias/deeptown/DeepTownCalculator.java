@@ -3,13 +3,13 @@
  */
 package org.joelson.mattias.deeptown;
 
-public class DeeptownCalculator {
+public class DeepTownCalculator {
 
     public String getGreeting() {
         return "Hello World!";
     }
 
     public static void main(String[] args) {
-        System.out.println(new DeeptownCalculator().getGreeting());
+        System.out.println(new DeepTownCalculator().getGreeting());
     }
 }

@@ -26,5 +26,5 @@ dependencies {
 
 application {
     // Define the main class for the application.
-    mainClass = 'deeptown.App'
+    mainClass = 'org.joelson.mattias.deeptown.DeepTownCalculator'
 }

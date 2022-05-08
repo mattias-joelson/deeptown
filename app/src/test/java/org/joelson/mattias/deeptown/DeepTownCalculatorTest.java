@@ -6,9 +6,9 @@ package org.joelson.mattias.deeptown;
 import org.junit.Test;
 import static org.junit.Assert.*;
 
-public class DeeptownCalculatorTest {
+public class DeepTownCalculatorTest {
     @Test public void appHasAGreeting() {
-        DeeptownCalculator classUnderTest = new DeeptownCalculator();
+        DeepTownCalculator classUnderTest = new DeepTownCalculator();
         assertNotNull("app should have a greeting", classUnderTest.getGreeting());
     }
 }
